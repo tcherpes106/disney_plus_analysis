@@ -2,6 +2,8 @@
 
 Project Name: disney_plus_analysis
 
+------------------------------
+
 Project Objective: See what type of content could be added to the Disney+ catalog to see an uptick in subscriptions to the site.
 
 What problem are you solving? - Disney+, while a big player in the streaming space, has seen less growth recently in terms of 
@@ -9,6 +11,8 @@ What problem are you solving? - Disney+, while a big player in the streaming spa
   
 How are you solving this problem? - By using the IMDb Top 250 movies list and Rotten Tomatoes Top 100 movies list as my reference,
   I looked to see what type of content was highly rated to see if Disney+ had the same type of content within the site.
+  
+------------------------------
   
 Job Description: I selected a Data Analyst position withhin the Disney company that was geared towards the 
   Disney Streaming Engagement & Retention Analytics team. This role supports Disney’s streaming services
@@ -18,6 +22,8 @@ Job Description: I selected a Data Analyst position withhin the Disney company t
   actionable business recommendations.
    
   This project allowed me to provide business recommendations by seeing the areas where the Disney+ catalog was lacking.
+  
+------------------------------
 
 Data: I pulled my data from 3 main web scrapes
 
@@ -30,6 +36,8 @@ Data: I pulled my data from 3 main web scrapes
     
   Rotten Tomatoes: 'https://www.rottentomatoes.com/top/bestofrt/'
     A list of the top 100 rated movies on Rotten Tomatoes.
+    
+------------------------------
 
 Notebooks:
 data_collection.ipynb - https://github.com/tcherpes106/disney_plus_analysis/blob/main/data_collection.ipynb
@@ -40,6 +48,8 @@ This notebook was used to run analysis on the data using sql queries.
 
 presentation.ipynb - https://github.com/tcherpes106/disney_plus_analysis/blob/main/presentation.ipynb
 This notebook is a combined version of the previous two with the addition of the recording link.
+
+------------------------------
 
 Future Improvements:
 1. If I had more time, I would have liked to add more data such as directors, actors, and movie runtime to do
