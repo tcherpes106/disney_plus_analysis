@@ -25,7 +25,9 @@ Job Description: I selected a Data Analyst position withhin the Disney company t
   
 ------------------------------
 
-Data: I pulled my data from 3 main web scrapes
+Data: 
+
+I pulled my data from 3 main web scrapes
 
   Disney: 'https://www.cordcuttersnews.com/disney-plus-movies-and-shows-list/'
     This source, while not completely up to date, had the data I needed from the Disney+ catalog - Since the Disney+ site
@@ -40,6 +42,7 @@ Data: I pulled my data from 3 main web scrapes
 ------------------------------
 
 Notebooks:
+
 data_collection.ipynb - https://github.com/tcherpes106/disney_plus_analysis/blob/main/data_collection.ipynb
 This notebook was used to gather the data necessary for the project and add it to a database.
 
