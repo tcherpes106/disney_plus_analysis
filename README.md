@@ -32,7 +32,14 @@ Data: I pulled my data from 3 main web scrapes
     A list of the top 100 rated movies on Rotten Tomatoes.
 
 Notebooks:
-Links to the notebook and a description of the notebook's purpose
+data_collection.ipynb - https://github.com/tcherpes106/disney_plus_analysis/blob/main/data_collection.ipynb
+This notebook was used to gather the data necessary for the project and add it to a database.
+
+sql_analysis.ipynb - https://github.com/tcherpes106/disney_plus_analysis/blob/main/sql_analysis.ipynb
+This notebook was used to run analysis on the data using sql queries.
+
+presentation.ipynb - https://github.com/tcherpes106/disney_plus_analysis/blob/main/presentation.ipynb
+This notebook is a combined version of the previous two with the addition of the recording link.
 
 Future Improvements:
 1. If I had more time, I would have liked to add more data such as directors, actors, and movie runtime to do
