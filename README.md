@@ -20,11 +20,14 @@ Job Description: I selected a Data Analyst position withhin the Disney company t
   This project allowed me to provide business recommendations by seeing the areas where the Disney+ catalog was lacking.
 
 Data: I pulled my data from 3 main web scrapes
+
   Disney: 'https://www.cordcuttersnews.com/disney-plus-movies-and-shows-list/'
     This source, while not completely up to date, had the data I needed from the Disney+ catalog - Since the Disney+ site
     makes it very hard to gather data, I had to look to other sources.
+    
   IMDb: 'https://www.imdb.com/chart/top/?ref_=nv_mv_250'
     A list of the top 250 rated movies on IMDb.
+    
   Rotten Tomatoes: 'https://www.rottentomatoes.com/top/bestofrt/'
     A list of the top 100 rated movies on Rotten Tomatoes.
 
